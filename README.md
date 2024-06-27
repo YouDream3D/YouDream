@@ -7,7 +7,11 @@ Under Review
 
 
 ![imaginary_outputs](https://github.com/YouDream3D/YouDream/assets/172318216/ed597c4b-02a6-4078-bfc8-9d892e5d0731)
-![resized_outputs_1_4](https://github.com/YouDream3D/YouDream/assets/172318216/fe9cab6a-55a8-4eb3-b9ca-e9a09fc89b8c)
+
+
+<div align="center">
+  <img src="https://github.com/YouDream3D/YouDream/assets/172318216/fe9cab6a-55a8-4eb3-b9ca-e9a09fc89b8c" alt="resized_outputs_1_4">
+</div>
 
 
 ---
