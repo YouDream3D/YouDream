@@ -8,12 +8,7 @@ Under Review
 
 ![imaginary_outputs](https://github.com/YouDream3D/YouDream/assets/172318216/ed597c4b-02a6-4078-bfc8-9d892e5d0731)
 
-<div align="center">
-  <video width="640" height="360" autoplay loop muted>
-    <source src="[./assets/output_common.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+[output.webm](https://github.com/YouDream3D/YouDream/assets/172318216/d3f26906-f89c-4607-8dd2-f9f8d9356825)
 
 
 ---
