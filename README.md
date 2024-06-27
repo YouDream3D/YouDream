@@ -23,6 +23,4 @@ Under Review
 ---
 Code and demo coming soon!
 
-Link to Project Page: [https://youdream3d.github.io/](https://youdream3d.github.io/)
-
 <sup>†</sup> Equal contribution
