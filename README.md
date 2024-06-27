@@ -10,7 +10,7 @@ Under Review
 
 <div align="center">
   <video width="640" height="360" autoplay loop muted>
-    <source src="[./assets/demo.mp4](https://github.com/YouDream3D/YouDream/assets/172318216/e00472d8-6058-44e7-bbd8-cb2e8dc91f91)" type="video/mp4">
+    <source src="[./assets/output_common.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
