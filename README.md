@@ -8,7 +8,7 @@ Under Review
 <h3 align="center">
   <a href="https://arxiv.org/abs/2406.16273v1">[arXiv]</a> | 
     <a href="https://youdream3d.github.io">[Project Page]</a> |
-  <a href="https://youdream3d.github.io">[Demo (coming soon)]</a> |
+  <a href="https://youdream3d.github.io">[Demo (coming soon)]</a> 
 </h3>
 
 
