@@ -5,6 +5,12 @@
 
 Under Review
 
+<h3 align="center">
+  <a href="https://arxiv.org/abs/2406.16273v1">[arXiv]</a> | 
+    <a href="https://youdream3d.github.io">[Project Page]</a> |
+  <a href="https://youdream3d.github.io">[Demo (coming soon)]</a> |
+</h3>
+
 
 ![imaginary_outputs](https://github.com/YouDream3D/YouDream/assets/172318216/ed597c4b-02a6-4078-bfc8-9d892e5d0731)
 
