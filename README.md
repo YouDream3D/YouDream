@@ -9,11 +9,6 @@ Under Review
 ![imaginary_outputs](https://github.com/YouDream3D/YouDream/assets/172318216/ed597c4b-02a6-4078-bfc8-9d892e5d0731)
 
 
-
-https://github.com/YouDream3D/YouDream/assets/172318216/8e2c76eb-b238-4227-89c3-cf6694e7b1a6
-
-
-
 ---
 Code and demo coming soon!
 
