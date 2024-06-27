@@ -8,8 +8,6 @@ Under Review
 
 ![imaginary_outputs](https://github.com/YouDream3D/YouDream/assets/172318216/ed597c4b-02a6-4078-bfc8-9d892e5d0731)
 
-[output.webm](https://github.com/YouDream3D/YouDream/assets/172318216/d3f26906-f89c-4607-8dd2-f9f8d9356825)
-
 
 ---
 Code and demo coming soon!
