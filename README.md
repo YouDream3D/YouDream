@@ -24,3 +24,12 @@ Under Review
 Code and demo coming soon!
 
 <sup>†</sup> Equal contribution
+
+```
+@article{mishra2024youdream,
+  title={YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals},
+  author={Mishra, Sandeep and Saha, Oindrila and Bovik, Alan C},
+  journal={arXiv preprint arXiv:2406.16273},
+  year={2024}
+}
+```
