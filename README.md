@@ -3,7 +3,7 @@
 ### YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals
 [Sandeep Mishra<sup>†</sup>](https://sandeep-sm.github.io/), [Oindrila Saha<sup>†</sup>](http://oindrilasaha.github.io), [Alan C. Bovik](https://www.ece.utexas.edu/people/faculty/alan-bovik) 
 
-Under Review
+Accepted at NeurIPS 2024
 
 <h3 align="center">
   <a href="https://arxiv.org/abs/2406.16273v1">[arXiv]</a> | 
