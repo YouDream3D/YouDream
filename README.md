@@ -13,10 +13,10 @@ Accepted at NeurIPS 2024
 
 ---
 
-![Unseen Animal Generation](https://github.com/YouDream3D/YouDream/assets/172318216/ed597c4b-02a6-4078-bfc8-9d892e5d0731)
+![Unseen Animal Generation](https://github.com/user-attachments/assets/e495c2b2-8b18-4ecb-a441-90daf6a0471b)
 
 <div align="center">
-  <img src="https://github.com/YouDream3D/YouDream/assets/172318216/fe9cab6a-55a8-4eb3-b9ca-e9a09fc89b8c" alt="Anatomically Controlled 3D Outputs"/>
+  <img src="https://github.com/user-attachments/assets/97b9192f-150c-4e1e-8aaa-e9a019d37c18" alt="Anatomically Controlled 3D Outputs"/>
 </div>
 
 ---
