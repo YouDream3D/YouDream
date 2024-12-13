@@ -3,7 +3,7 @@ controlnet_aux==0.0.6
 diffusers==0.21.0
 einops==0.7.0
 huggingface_hub==0.16.2
-imageio==2.31.1
+imageio[ffmpeg]==2.31.1
 libigl==2.4.1
 loguru==0.6.0
 matplotlib==3.6.2
