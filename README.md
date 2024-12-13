@@ -60,8 +60,7 @@ Accepted at NeurIPS 2024
    Place the downloaded checkpoint folder: "animal_pose_controlnet"  in the root directory of YouDream.
 
 #### Running the Code
-1. Prepare the input text prompt file or dataset.
-2. Run the main script to generate 3D models:
+1. Run the shell scripts to generate 3D models:
    ```bash
    ./run_all_tiger.sh 
    ```
