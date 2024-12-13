@@ -1,0 +1,12 @@
+# Ignore outputs folder
+outputs/
+
+# Ignore animal_pose_controlnet folder
+animal_pose_controlnet/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
