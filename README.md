@@ -79,5 +79,8 @@ If you find this work useful in your research or projects, please cite:
 
 ---
 
+### Acknowledgements
+Our Code is based on [DreamWaltz](https://github.com/IDEA-Research/DreamWaltz). We thank the DreamWaltz contributors for making the code available.
+
 <sup>✝︎</sup> Equal contribution.
 
