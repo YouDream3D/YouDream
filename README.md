@@ -13,10 +13,10 @@ Accepted at NeurIPS 2024
 
 ---
 
-![Unseen Animal Generation](https://github.com/user-attachments/assets/e495c2b2-8b18-4ecb-a441-90daf6a0471b)
+![Unseen Animal Generation](https://github-production-user-asset-6210df.s3.amazonaws.com/172318216/343584922-ed597c4b-02a6-4078-bfc8-9d892e5d0731.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241213T121229Z&X-Amz-Expires=300&X-Amz-Signature=da77a58bce87a0e2fcfa62ecf1d1799196ddf7155f49ea02992e4d7b066e17dc&X-Amz-SignedHeaders=host)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/97b9192f-150c-4e1e-8aaa-e9a019d37c18" alt="Anatomically Controlled 3D Outputs"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/172318216/343589619-fe9cab6a-55a8-4eb3-b9ca-e9a09fc89b8c.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241213T121315Z&X-Amz-Expires=300&X-Amz-Signature=043ca4be9f8b0e0528ce0fa1a6c1a2698250d5322842a4f9e702e64184ae2fd7&X-Amz-SignedHeaders=host" alt="Anatomically Controlled 3D Outputs"/>
 </div>
 
 ---
