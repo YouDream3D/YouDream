@@ -67,16 +67,19 @@ Accepted at NeurIPS 2024
 
 ### Citation
 If you find this work useful in your research or projects, please cite:
-
 ```
-@article{mishra2024youdream,
-  title={YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals},
-  author={Mishra, Sandeep and Saha, Oindrila and Bovik, Alan C},
-  journal={arXiv preprint arXiv:2406.16273},
-  year={2024}
+@inproceedings{NEURIPS2024_6fe5d7a2,
+ author = {Mishra, Sandeep and Saha, Oindrila and Bovik, Alan},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {60669--60698},
+ publisher = {Curran Associates, Inc.},
+ title = {YouDream: Generating Anatomically Controllable Consistent Text-to-3D Animals},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/6fe5d7a2de090168917425fe89a6c1b8-Paper-Conference.pdf},
+ volume = {37},
+ year = {2024}
 }
 ```
-
 ---
 
 ### Acknowledgements
